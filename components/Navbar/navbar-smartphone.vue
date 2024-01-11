@@ -1,9 +1,8 @@
 <template>
     <div>
-        <h1>hallo</h1>
 
-        <ul class="list">
-             <li><a href="#">Home</a></li>
+        <ul class="list-navbar">
+             <li><a href="#">hello</a></li>
              <li><a href="#">News</a></li>
              <li><a href="#">Contact</a></li>
              <li><a href="#">About</a></li>
@@ -16,7 +15,7 @@
 
 <style scoped>
 
-/*.list{
+.list-navbar{
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -24,7 +23,7 @@
   overflow: hidden;
 }
 
-.list li{
+.list-navbar li{
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -33,9 +32,9 @@
   font-size: 17px;
 }
 
-.list li:active{
+.list-navbar li:active{
   background-color: #ddd;
   color: black;
-}*/
+}
 
 </style>
