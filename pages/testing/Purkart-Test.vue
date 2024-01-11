@@ -1,7 +1,7 @@
 <template>
     <div>
-        <smartphone-Bestellmenu-Grid/>
-        <navbar-smartphone/>
-        <order-item/>
+        <Smartphone-Bestellmenu-Grid/>
+        <Navbar-smartphone/>
+        <Order-item/>
     </div>
 </template>
