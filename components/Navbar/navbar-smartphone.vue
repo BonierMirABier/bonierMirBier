@@ -23,7 +23,7 @@
   overflow: hidden;
 }
 
-.list-navbar li{
+.list-navbar li a{
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -32,7 +32,7 @@
   font-size: 17px;
 }
 
-.list-navbar li:active{
+.list-navbar li a:hover{
   background-color: #ddd;
   color: black;
 }
